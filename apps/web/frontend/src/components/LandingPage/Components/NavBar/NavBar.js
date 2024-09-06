@@ -34,11 +34,6 @@ const NavBar = () => {
             </a>
           </li>
           <li className="list">
-            <a href="https://github.com/dvstechlabs/Noteslify">
-              <li>Github</li>
-            </a>
-          </li>
-          <li className="list">
             <Link to="/contact">
               <li>Contact</li>
             </Link>

@@ -17,7 +17,6 @@ const Footer = () => {
 
 
                     <div className="social">
-                        <a title="GitHub" href="https://github.com/dvstechlabs/Noteslify"><i className="fa-brands fa-github-square"></i></a>
                         <a title="YouTube" href="#test"><i className="fa-brands fa-youtube-square"></i></a>
                         <a title="Facebook" href="#test"><i className="fa-brands fa-facebook-square"></i></a>
                         <a title="Twitter" href="#test"><i className="fa-brands fa-twitter-square"></i></a>
@@ -82,12 +81,11 @@ const Footer = () => {
 
                     <a href="http://noteslify.stonecss.com/">Home</a>
                     <a href="#test">Feature</a>
-                    <a href="https://github.com/dvstechlabs/Noteslify">Github</a>
                     <a href="http://noteslify.stonecss.com/contact">Contact</a>
                     <a href="http://noteslify.stonecss.com/notes">Dashboard</a>
 
                 </div>
-                <p>Copyright &copy; 2022 | DVS Tech Labs</p>
+                <p>Copyright &copy; 2022 | codeking</p>
             </div>
         </footer>
     );
